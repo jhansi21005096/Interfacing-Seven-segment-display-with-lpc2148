@@ -1,7 +1,7 @@
 # Interfacing-Seven-segment-display-with-lpc2148
 
-Name:	M.Sowmya
-Roll no : 212221230107
+Name:	K.Jhansi
+Roll no : 212221230045
 Date of experiment:
 
 
@@ -95,11 +95,11 @@ int main(void)
 
 
 #  Output screen shots :
-![output](./mc8.1.png)
+![output](https://github.com/jhansi21005096/Interfacing-Seven-segment-display-with-lpc2148/blob/8b737bc06ef0a965edbaf0b92aecf0302c7ea1c9/jmc8.1.png)
 
-![output](./mc8.2.png)
+![output](https://github.com/jhansi21005096/Interfacing-Seven-segment-display-with-lpc2148/blob/8b737bc06ef0a965edbaf0b92aecf0302c7ea1c9/jmc8.2.png)
 
-![output](./mc8.3.png)
+![output](https://github.com/jhansi21005096/Interfacing-Seven-segment-display-with-lpc2148/blob/8b737bc06ef0a965edbaf0b92aecf0302c7ea1c9/jmc8.3.png)
 
 # Result :
 LED seven segment display is interfaced and displayed alpha numeric characters 
